@@ -1,0 +1,7 @@
+#Fri Sep 15 09:48:54 IST 2017
+base.0=G\:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3db01b36fc4bef46b1c801f6376b1234f54f881e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f7b6b946528cba0e38c074f94daf6cd689380a9\\classes.dex
+base.1=G\:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f7b6b946528cba0e38c074f94daf6cd689380a9
+file.0=G\:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3db01b36fc4bef46b1c801f6376b1234f54f881e\\classes.dex

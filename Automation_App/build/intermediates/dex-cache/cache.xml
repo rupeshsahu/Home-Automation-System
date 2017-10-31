@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\projects\homeautomation\Automation_App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="471c8eb41f6cf3343766519494b3e24b89ac1ecf">
+        <dex dex="G:\projects\homeautomation\Automation_App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1f7b6b946528cba0e38c074f94daf6cd689380a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\projects\homeautomation\Automation_App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\projects\homeautomation\Automation_App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3db01b36fc4bef46b1c801f6376b1234f54f881e\classes.dex" />
+    </item>
+
+</items>

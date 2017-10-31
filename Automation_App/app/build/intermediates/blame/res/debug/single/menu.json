@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_led_control.xml",
+        "source": "G:\\projects\\homeautomation\\Automation_App\\app\\src\\main\\res\\menu\\menu_led_control.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_device_list.xml",
+        "source": "G:\\projects\\homeautomation\\Automation_App\\app\\src\\main\\res\\menu\\menu_device_list.xml"
+    }
+]
