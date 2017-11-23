@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 import android.bluetooth.BluetoothSocket;
 import android.content.Intent;
+import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CompoundButton;
@@ -26,11 +27,12 @@ import java.util.UUID;
 
 public class ledControl extends ActionBarActivity {
 
-    Button btnDis;
+    Button btnDis,push;
     ToggleButton tb5;
     ToggleButton tb6;
     ToggleButton tb7;
     ToggleButton tb8;
+
 
 
     String address = null;
@@ -54,18 +56,34 @@ public class ledControl extends ActionBarActivity {
 
         //call the widgtes
 
-        btnDis = (Button)findViewById(R.id.button4);
+        btnDis = (Button)findViewById(R.id.button2);
 
         tb5= (ToggleButton) findViewById(R.id.toggleButton5);
         tb6= (ToggleButton) findViewById(R.id.toggleButton6);
         tb7= (ToggleButton) findViewById(R.id.toggleButton7);
         tb8= (ToggleButton) findViewById(R.id.toggleButton8);
+        push= (Button) findViewById(R.id.button4);
 
 
         new ConnectBT().execute(); //Call the class to connect
 
         //commands to be sent to bluetooth
+        findViewById(R.id.button2).setOnTouchListener(new View.OnTouchListener()
+        {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                if (event.getAction() == MotionEvent.ACTION_DOWN) {
+                   play();
 
+                } else if (event.getAction() == MotionEvent.ACTION_UP) {
+                    stop();
+                    // stop your timer.
+
+                }
+                return false;
+            }
+
+        });
             tb5.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener(){
                 public void onCheckedChanged(CompoundButton buttonView,boolean isChecked){
                     if(isChecked){
@@ -134,6 +152,36 @@ public class ledControl extends ActionBarActivity {
         }
         finish(); //return to the first layout
 
+    }
+    private void play()
+    {
+
+        if (btSocket!=null)
+        {
+            try
+            {
+                btSocket.getOutputStream().write("2".toString().getBytes());
+            }
+            catch (IOException e)
+            {
+                msg("Error");
+            }
+        }
+    }
+    private void stop()
+    {
+
+        if (btSocket!=null)
+        {
+            try
+            {
+                btSocket.getOutputStream().write("5".toString().getBytes());
+            }
+            catch (IOException e)
+            {
+                msg("Error");
+            }
+        }
     }
     private void turnOn12()
     {

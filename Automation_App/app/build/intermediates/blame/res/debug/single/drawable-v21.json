@@ -1,14 +1,14 @@
 [
     {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

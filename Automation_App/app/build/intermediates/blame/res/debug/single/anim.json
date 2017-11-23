@@ -1,42 +1,42 @@
 [
     {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "G:\\projects\\homeautomation\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\projects\\homeautomation\\Our Project\\Automation_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Rupesh\\.android\\build-cache\\dbf5bccc404871325546c207d1cb9e2576f4754d\\output\\res\\anim\\abc_popup_enter.xml"
     }
 ]

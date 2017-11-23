@@ -1611,7 +1611,8 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020048;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020049;
         public static final int abc_textfield_search_material=0x7f02004a;
-        public static final int notification_template_icon_bg=0x7f02004b;
+        public static final int images=0x7f02004b;
+        public static final int notification_template_icon_bg=0x7f02004c;
     }
     public static final class id {
         public static final int action0=0x7f0c0062;
@@ -1635,6 +1636,7 @@ containing a value of this type.
         public static final int always=0x7f0c001d;
         public static final int beginning=0x7f0c001a;
         public static final int button=0x7f0c0052;
+        public static final int button2=0x7f0c005f;
         public static final int button4=0x7f0c0054;
         public static final int button5=0x7f0c0060;
         public static final int buttonPanel=0x7f0c002c;
@@ -1705,21 +1707,20 @@ containing a value of this type.
         public static final int text2=0x7f0c006a;
         public static final int textSpacerNoButtons=0x7f0c0035;
         public static final int textView=0x7f0c0051;
-        public static final int textView10=0x7f0c005e;
-        public static final int textView2=0x7f0c0056;
+        public static final int textView10=0x7f0c005d;
         public static final int textView3=0x7f0c0061;
-        public static final int textView5=0x7f0c005a;
-        public static final int textView6=0x7f0c005d;
-        public static final int textView7=0x7f0c005c;
-        public static final int textView8=0x7f0c005b;
-        public static final int textView9=0x7f0c005f;
+        public static final int textView5=0x7f0c0059;
+        public static final int textView6=0x7f0c005c;
+        public static final int textView7=0x7f0c005b;
+        public static final int textView8=0x7f0c005a;
+        public static final int textView9=0x7f0c005e;
         public static final int time=0x7f0c0068;
         public static final int title=0x7f0c002b;
         public static final int title_template=0x7f0c0030;
-        public static final int toggleButton5=0x7f0c0055;
-        public static final int toggleButton6=0x7f0c0057;
-        public static final int toggleButton7=0x7f0c0058;
-        public static final int toggleButton8=0x7f0c0059;
+        public static final int toggleButton5=0x7f0c0058;
+        public static final int toggleButton6=0x7f0c0056;
+        public static final int toggleButton7=0x7f0c0055;
+        public static final int toggleButton8=0x7f0c0057;
         public static final int topPanel=0x7f0c002f;
         public static final int up=0x7f0c0009;
         public static final int useLogo=0x7f0c0013;

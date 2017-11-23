@@ -1,66 +1,66 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:3:5-47
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:5:5-68
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:5:5-68
 	android:name
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:5:22-65
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:5:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:6:5-74
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:6:5-74
 	android:name
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:6:22-71
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:6:22-71
 application
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:8:5-24:19
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:8:5-24:19
 MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Rupesh\.android\build-cache\dbf5bccc404871325546c207d1cb9e2576f4754d\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Rupesh\.android\build-cache\57d24f572040abff85e4acec7e1adbec62145736\output\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Rupesh\.android\build-cache\f8d2746534173f6aa10de413164680579cc2d252\output\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Rupesh\.android\build-cache\f34e64ef9b2c6036c3b3f5107c5adabcead46504\output\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:12:9-35
 	android:allowBackup
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.example.rishi.automation_app.MainActivity
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:14:9-21:20
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:14:9-21:20
 	android:name
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.rishi.automation_app.DeviceList
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:22:9-47
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:22:9-47
 	android:name
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:22:19-45
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:22:19-45
 activity#com.example.rishi.automation_app.ledControl
-ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:23:9-47
+ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:23:9-47
 	android:name
-		ADDED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml:23:19-45
+		ADDED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml:23:19-45
 uses-sdk
-INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Rupesh\.android\build-cache\dbf5bccc404871325546c207d1cb9e2576f4754d\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Rupesh\.android\build-cache\57d24f572040abff85e4acec7e1adbec62145736\output\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Rupesh\.android\build-cache\f8d2746534173f6aa10de413164680579cc2d252\output\AndroidManifest.xml:5:5-43
@@ -68,8 +68,8 @@ MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Rupesh\.android\bui
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Rupesh\.android\build-cache\dbf5bccc404871325546c207d1cb9e2576f4754d\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
-		INJECTED from G:\projects\homeautomation\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\projects\homeautomation\Our Project\Automation_App\app\src\main\AndroidManifest.xml

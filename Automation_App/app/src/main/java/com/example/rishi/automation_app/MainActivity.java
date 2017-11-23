@@ -31,8 +31,7 @@ TextView tv;
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent in;
-                in = new Intent(MainActivity.this,DeviceList.class);
+                Intent in=new Intent(MainActivity.this,DeviceList.class);
                 startActivity(in);
             }
         });
